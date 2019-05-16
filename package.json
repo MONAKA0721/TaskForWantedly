@@ -13,7 +13,6 @@
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "eject": "react-scripts eject",
-    "postinstall": "gulp browserify"
   },
   "eslintConfig": {
     "extends": "react-app"
