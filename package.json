@@ -9,11 +9,11 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "eject": "react-scripts eject",
-    "postinstall": "gulp browserify",
-    "start": "node server/server.js"
+    "postinstall": "gulp browserify"
   },
   "eslintConfig": {
     "extends": "react-app"
